@@ -1,0 +1,11 @@
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Release\auWHV.exe.manifest
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Release\auWHV.application
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Release\auWHV.exe
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Release\auWHV.pdb
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.Form1.resources
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.Properties.Resources.resources
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.csproj.GenerateResource.Cache
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.exe.manifest
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.application
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.exe
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Release\auWHV.pdb

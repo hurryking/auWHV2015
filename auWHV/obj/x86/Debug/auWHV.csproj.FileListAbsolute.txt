@@ -1,0 +1,26 @@
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Debug\auWHV.exe
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Debug\auWHV.pdb
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.csprojResolveAssemblyReference.cache
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.Form1.resources
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.Properties.Resources.resources
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.csproj.GenerateResource.Cache
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.exe
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.pdb
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Debug\auWHV.exe.manifest
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\bin\Debug\auWHV.application
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.exe.manifest
+E:\sourcecode\C#_Vb\visual studio c#\auWHV\auWHV\auWHV\obj\x86\Debug\auWHV.application
+\\Mac\Home\sourcecode\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.exe
+\\Mac\Home\sourcecode\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.pdb
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.exe
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.pdb
+D:\source\yueau\auWHV\auWHV\bin\Debug\auWHV.exe.manifest
+D:\source\yueau\auWHV\auWHV\bin\Debug\auWHV.application
+D:\source\yueau\auWHV\auWHV\bin\Debug\auWHV.exe
+D:\source\yueau\auWHV\auWHV\bin\Debug\auWHV.pdb
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.csprojResolveAssemblyReference.cache
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.Form1.resources
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.Properties.Resources.resources
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.csproj.GenerateResource.Cache
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.exe.manifest
+D:\source\yueau\auWHV\auWHV\obj\x86\Debug\auWHV.application
