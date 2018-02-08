@@ -226,7 +226,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(95, 12);
             this.label1.TabIndex = 17;
-            this.label1.Text = "  月姐么么哒   ";
+            this.label1.Text = "   ";
             // 
             // label2
             // 
@@ -235,7 +235,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(101, 12);
             this.label2.TabIndex = 18;
-            this.label2.Text = " daiyyr@20150607";
+            this.label2.Text = " ";
             // 
             // Form1
             // 
