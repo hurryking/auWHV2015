@@ -29,59 +29,59 @@ namespace auWHV
         string gTrn = "";
                         
 
-        string user = "eru1989";
-        string password = "Dd1234567";
+        string user = "";
+        string password = "";
 
 
         //personal1
-        static string familyName = "viki",
-                givenName = "v",
-                gender = "M",
-                applicant_dob_day = "1",
-                applicant_dob_month = "1",
-                applicant_dob_year = "1993",
-                applicant_marital_status = "N",
-                city = "lixiangguo",
-                applicant_birth_country = "GERM",
-                applicant_offshore_residential_country = "GERM",
-                passportNumber = "F78787878",
-                applicant_travel_passport_country = "D",        //CHN    change to CHN, save ,submit, pay
-                applicant_travel_passport_nationality = "D",    //CHN
-                applicant_travel_passport_issue_day = "1",
-                applicant_travel_passport_issue_month = "1",
-                applicant_travel_passport_issue_year = "2010",
-                applicant_travel_passport_expiry_day = "2",
-                applicant_travel_passport_expiry_month = "2",
-                applicant_travel_passport_expiry_year = "2020",
-                issuePlace = "German",
-                applicant_enter_propose_day = "3",
-                applicant_enter_propose_month = "3",
-                applicant_enter_propose_year = "2016",
+        static string familyName = "",
+                givenName = "",
+                gender = "",
+                applicant_dob_day = "",
+                applicant_dob_month = "",
+                applicant_dob_year = "",
+                applicant_marital_status = "",
+                city = "",
+                applicant_birth_country = "",
+                applicant_offshore_residential_country = "",
+                passportNumber = "",
+                applicant_travel_passport_country = "",       
+                applicant_travel_passport_nationality = "",   
+                applicant_travel_passport_issue_day = "",
+                applicant_travel_passport_issue_month = "",
+                applicant_travel_passport_issue_year = "",
+                applicant_travel_passport_expiry_day = "",
+                applicant_travel_passport_expiry_month = "",
+                applicant_travel_passport_expiry_year = "",
+                issuePlace = "",
+                applicant_enter_propose_day = "",
+                applicant_enter_propose_month = "",
+                applicant_enter_propose_year = "",
             //personal2
-                applicant_occupation = "programmer",
-                applicant_employment_seek = "S",
-                applicant_qualifications_hold = "05",
+                applicant_occupation = "",
+                applicant_employment_seek = "",
+                applicant_qualifications_hold = "",
             //offshoreAddress
-                applicant_offshore_residential_address = "feawfaewff",
-                applicant_offshore_residential_suburb = "aefawef",
-                applicant_offshore_residential_other_state_or_province = "fawef",
-                applicant_offshore_residential_postcode = "234009",
-                applicant_offshore_residential_mobile_phone_country_code = "77",
-                applicant_offshore_residential_mobile_phone_number = "33344455555",
+                applicant_offshore_residential_address = "",
+                applicant_offshore_residential_suburb = "",
+                applicant_offshore_residential_other_state_or_province = "",
+                applicant_offshore_residential_postcode = "",
+                applicant_offshore_residential_mobile_phone_country_code = "",
+                applicant_offshore_residential_mobile_phone_number = "",
             //offshoreContact
                 applicant_contact_address = applicant_offshore_residential_address,
                 applicant_contact_suburb = applicant_offshore_residential_suburb,
                 applicant_contact_other_state_or_province = applicant_offshore_residential_other_state_or_province,
                 applicant_contact_postcode = applicant_offshore_residential_postcode,
                 applicant_contact_country = applicant_offshore_residential_country,
-                applicant_email_address_text = "edwqefqew32%40gmail.com",
-                dimia_office = "198",
+                applicant_email_address_text = "",
+                dimia_office = "",
             //payment
-                cardnumber = "6225768717808998",
-                expirymonth = "4",
-                expiryyear = "2017",
-                cardname = "Vivi",
-                securityCode = "432";
+                cardnumber = "",
+                expirymonth = "",
+                expiryyear = "",
+                cardname = "",
+                securityCode = "";
 
 
         public Form1()
